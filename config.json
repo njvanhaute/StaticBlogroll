@@ -15,6 +15,7 @@
   "Feeds": [
     "https://ian.wold.guru/feed.xml",
     "https://jvns.ca/atom.xml",
-    "https://devblogs.microsoft.com/dotnet/feed/"
+    "https://devblogs.microsoft.com/dotnet/feed/",
+    "https://react.dev/rss.xml"
   ]
 }
